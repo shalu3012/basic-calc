@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Style+Script&display=swap');
+h1{
+    color: rgb(43, 8, 2);
+    font-size: 30pt;
+    font-family: 'Merriweather', serif , cursive;
+}
+.container{
+    margin: auto;
+    text-align: center;
+}
+.calculator{
+    background: #f6d80561;
+    width: 390px;
+    display: inline-block;
+    border-radius: 29px;
+    height: 402px;
+}
+table{
+   
+    margin: auto;
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+}
+button{
+    width: 88px;
+    height: 58px;
+    font-size: 18pt;
+    background: #bac8e1;
+    border-radius: 9px;
+}
+input{
+    width: 355px;
+    height: 54px;
+    font-size: 22pt;
+    border-radius: 10px;
+    margin-bottom: 4px;
+    margin-top: 15px;
+}
